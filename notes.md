@@ -6,3 +6,6 @@ git push -u origin master
 git add *
 git commit -m "added git commands used"
 git push
+
+ls
+git ls-files
